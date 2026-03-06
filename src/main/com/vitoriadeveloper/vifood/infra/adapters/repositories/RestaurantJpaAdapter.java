@@ -1,6 +1,5 @@
 package com.vitoriadeveloper.vifood.infra.adapters.repositories;
 
-import com.vitoriadeveloper.vifood.domain.exceptions.RestaurantNotFoundException;
 import com.vitoriadeveloper.vifood.domain.filters.RestaurantFilter;
 import com.vitoriadeveloper.vifood.domain.model.Restaurant;
 import com.vitoriadeveloper.vifood.domain.ports.out.IRestaurantRepositoryPort;

@@ -4,7 +4,7 @@ package com.vitoriadeveloper.vifood.infra.adapters.http;//package com.vitoriadev
 //import com.vitoriadeveloper.vifood.application.services.KitchenService;
 //import com.vitoriadeveloper.vifood.domain.exceptions.KitchenNotFoundException;
 //import com.vitoriadeveloper.vifood.domain.model.Kitchen;
-//import com.vitoriadeveloper.vifood.infra.exceptions.ApiExceptionHandler;
+//import exceptions.infra.com.vitoriadeveloper.vifood.ApiExceptionHandler;
 //import org.junit.jupiter.api.DisplayName;
 //import org.junit.jupiter.api.Test;
 //import org.springframework.beans.factory.annotation.Autowired;

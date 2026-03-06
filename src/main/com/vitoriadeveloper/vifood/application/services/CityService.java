@@ -2,7 +2,6 @@ package com.vitoriadeveloper.vifood.application.services;
 
 import com.vitoriadeveloper.vifood.domain.exceptions.CityNotFoundException;
 import com.vitoriadeveloper.vifood.domain.exceptions.InvalidStateReferenceException;
-import com.vitoriadeveloper.vifood.domain.exceptions.StateNotFoundException;
 import com.vitoriadeveloper.vifood.domain.model.City;
 import com.vitoriadeveloper.vifood.domain.model.State;
 import com.vitoriadeveloper.vifood.domain.ports.in.ICityUseCasePort;
